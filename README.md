@@ -17,7 +17,8 @@ Sou Policial Militar com sólida experiência em segurança pública e atualment
 ---
 
 ## 🧠 Tecnologias e Conhecimentos
-- *Segurança da Informação*: Princípios de Cibersegurança | Autenticação | Criptografia  
+- *Segurança da Informação*: Princípios de Cibersegurança | Autenticação | Criptografia
+- Inteligencia de segurança 
 
 ---
 
