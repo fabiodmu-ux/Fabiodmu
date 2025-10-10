@@ -1,4 +1,4 @@
-# 👨‍💻 [Fábio Duarte Oliveira]
+# 👨‍💻 Fábio Duarte Oliveira
 
 ## 🚓 Policial Militar | 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 ### 🔐 Entusiasta em Segurança Digital | 💡 Apaixonado por Tecnologia
