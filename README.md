@@ -28,13 +28,10 @@ Sou Policial Militar com sólida experiência em segurança pública e atualment
 Sistema simples de controle de usuários com autenticação segura, criptografia de senhas e permissões.  
 [🔗 GitHub Link](https://fabiodmu-ux.github.io/Sistema-de-Controle-de-Acesso/login.html)
 
-### 🕵️ simulador-alerta-cyber
-Protótipo de ferramenta que simula alertas de incidentes cibernéticos e executa recomendações automáticas de resposta.  
-[🔗 GitHub Link](#)
+###  🐹 Salve o Hamster
+Protótipo de ONG Defenda o Hamster não é apenas um abrigo; somos a voz e o último refúgio para esses seres frágeis..  
+[🔗 GitHub Link](https://fabiodmu-ux.github.io/Salve-o-hamster/)
 
-### 🧾 gestor-escalas
-Sistema voltado à gestão de escalas de serviço, inspirado na rotina da segurança pública, com funcionalidades de cadastro e exportação de relatórios.  
-[🔗 GitHub Link](#)
 
 ---
 
