@@ -44,6 +44,6 @@ Protótipo de ONG Defenda o Hamster não é apenas um abrigo; somos a voz e o ú
 
 ## 🤝 Vamos nos conectar?
 
-- [LinkedIn]([https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/f%C3%A1bio-d-b39050209/?trk=opento_sprofile_details)
+- [LinkedIn](https://www.linkedin.com/in/f%C3%A1bio-d-b39050209/?trk=opento_sprofile_details)
 - [GitHub](https://github.com/fabiodmu-ux)
 - [Email](fabiodmu@gmail.com)
